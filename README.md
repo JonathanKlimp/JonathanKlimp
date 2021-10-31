@@ -14,7 +14,3 @@ Trying to use machine learning for quarantining animals after a biting incident.
 
 Building a website for providing de-prescribing information for drugs * https://github.com/MinorApplicationDesign/MinorApplicationDesign
 
-<!---
-JonathanKlimp/JonathanKlimp is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->

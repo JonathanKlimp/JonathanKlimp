@@ -9,17 +9,17 @@ I have the most recent experience in Java, I have used this language for my mino
 
 Interesting projects I worked on:
 
-Graduation project: reseaching and implementing non-coding functionality into [VIP](https://github.com/molgenis/vip)
+- Graduation project: reseaching and implementing non-coding functionality into [VIP](https://github.com/molgenis/vip)
 Researching and implementing non-coding functionality into VIP 
-- [repo](https://github.com/molgenis/vip/tree/feat/non-coding) 
-- [non-coding score annotator](https://github.com/molgenis/vip-decision-tree/tree/feat/annotation) 
-- [Other scripts used for this project](https://github.com/JonathanKlimp/Graduation-scripts)
+  - [repo](https://github.com/molgenis/vip/tree/feat/non-coding) 
+  - [non-coding score annotator](https://github.com/molgenis/vip-decision-tree/tree/feat/annotation) 
+  - [Other scripts used for this project](https://github.com/JonathanKlimp/Graduation-scripts)
 
-Internship projec: Protype for Genomic Decision Support (GenDecS) as an app in [molgenis-emx2](https://github.com/JonathanKlimp/molgenis-emx2/tree/master/apps/gendecs)
+- Internship project: Protype for Genomic Decision Support (GenDecS) as an app in [molgenis-emx2](https://github.com/JonathanKlimp/molgenis-emx2/tree/master/apps/gendecs)
 
-Building a website for providing de-prescribing information for drugs: [Minor](https://github.com/MinorApplicationDesign/MinorApplicationDesign)
+- Building a website for providing de-prescribing information for drugs: [Minor](https://github.com/MinorApplicationDesign/MinorApplicationDesign)
 
-Pedigree tracker website. Built with java/javascript: [Pedigree tracker](https://bitbucket.org/JonathanKlimp/thema10/src/master/)
+- Pedigree tracker website. Built with java/javascript: [Pedigree tracker](https://bitbucket.org/JonathanKlimp/thema10/src/master/)
 
-Trying to use machine learning for quarantining animals after a biting incident: [Repo](https://bitbucket.org/JonathanKlimp/thema09/src/master/)
+- Trying to use machine learning for quarantining animals after a biting incident: [Repo](https://bitbucket.org/JonathanKlimp/thema09/src/master/)
 

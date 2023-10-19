@@ -1,13 +1,14 @@
 - 👋 Hi, I’m @JonathanKlimp
-- 📫 How to reach me jonathanklimp@hotmail.com / klimp92@gmail.com
+- 📫 How to reach me klimp92@gmail.com / jonathanklimp@hotmail.com
 
-My name is Jonathan Klimp. Currently I am nearly done with the bachelor Bio-informatics at the Hanze University of Applied Sciences. 
-I am a realistic loyal guy who likes programming and learn new things. I completed the minor Application Design. 
-There I am learned to build better applications which is something I like doing. The programming languages I know are: Java, javascript, Pyhon, and R. 
-I have the most recent experience in Java, I have used this language for my minor, Internship (together with javascript and VUE.js), and graduation project (together with R and Shell)
+My name is Jonathan Klimp. Currently I a bachelor Bio-informatics. I completed this bachelor at the Hanze University of Applied Sciences. 
+I am a realistic loyal guy who likes programming and learn new things. I completed the minor Application Design,
+there I am learned to build better applications with java spring-boot. The programming languages/frameworks I know are: Java, javascript, Pyhon, HTML, CSS, Angular, VUEjs, graphQL, java spring and R. 
+I have the most recent experience in Java, I have used this language for my minor, Internship (together with javascript and VUE.js), graduation project (together with R and Shell), and during the Traineeship Java developer at DUO.
 
 
 Interesting projects I worked on:
+- Traineeship project: A spring project with angular frondend and spring backend with a connection to a mysql database. Is a website where you can compare prices of food products of the most popular supermarkets in the Netherlands. [Boodschappenvergelijker](https://github.com/JonathanKlimp/boodschappen_vergelijker)
 
 - Graduation project: reseaching and implementing non-coding functionality into [VIP](https://github.com/molgenis/vip)
 Researching and implementing non-coding functionality into VIP 

@@ -8,7 +8,7 @@ I have the most recent experience in Java, I have used this language for my mino
 
 
 Interesting projects I worked on:
-- Traineeship project: A spring project with angular frondend and spring backend with a connection to a mysql database. Is a website where you can compare prices of food products of the most popular supermarkets in the Netherlands. [Boodschappenvergelijker](https://github.com/JonathanKlimp/boodschappen_vergelijker)
+- Traineeship project: A spring project with angular frontend and spring backend with a connection to a mysql database. Is a website where you can compare prices of food products of the most popular supermarkets in the Netherlands. [Boodschappenvergelijker](https://github.com/JonathanKlimp/boodschappen_vergelijker)
 
 - Graduation project: reseaching and implementing non-coding functionality into [VIP](https://github.com/molgenis/vip)
 Researching and implementing non-coding functionality into VIP 
